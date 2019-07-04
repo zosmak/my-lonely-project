@@ -1,2 +1,2 @@
-# My-Lonely-Project
-Small personal project using my webpack and react boilerplate.
+# react-webpack-boilerplate
+Simple and minimal webpack and react boilerplate.
